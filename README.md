@@ -10,7 +10,6 @@ exploring modern technologies, and continuously improving my development skills.
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Amila1103)
 
 </div>
 
