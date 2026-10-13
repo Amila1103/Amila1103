@@ -9,8 +9,8 @@ Passionate about building practical software solutions,
 exploring modern technologies, and continuously improving my development skills.
 
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Amila1103&style=flat-square&color=blue)](https://github.com/Amila1103)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Amila1103)
 
 </div>
 
