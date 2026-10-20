@@ -45,9 +45,7 @@ Passionate about building practical software solutions, exploring modern technol
 
 ## Featured Projects
 
-- [Smart Campus Operations Hub](https://github.com/Amila1103/it3030-paf-2026-smart-campus-group-12)
 - [BloodDononerApp-Development](https://github.com/Amila1103/BloodDononerApp-Development)
-- [BloodDononerApp](https://github.com/Amila1103/BloodDononerApp)
 - [Smart Campus Food Ordering System](https://github.com/Amila1103/Smart-Campus-Food-Ordering-System)
 
 ---
