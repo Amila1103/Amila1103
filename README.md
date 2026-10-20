@@ -1,17 +1,8 @@
-
-<div align="center">
-
 # Hi, I'm Amila Rathnayaka
 
 ### IT Undergraduate | Aspiring Software Engineer
 
-Passionate about building practical software solutions,
-exploring modern technologies, and continuously improving my development skills.
-
-
-
-
-</div>
+Passionate about building practical software solutions, exploring modern technologies, and continuously improving my development skills.
 
 ---
 
@@ -54,31 +45,10 @@ exploring modern technologies, and continuously improving my development skills.
 
 ## Featured Projects
 
-### Smart Campus Operations Hub
-
-A web-based platform for university resource booking, incident reporting, maintenance coordination and administrative management.
-
-[View Repository](https://github.com/Amila1103/it3030-paf-2026-smart-campus-group-12)
-
-### Blood Donor Management Application
-
-An Android application designed to help donors and recipients connect, search for available blood donors and manage emergency blood requests.
-
-**Technologies:** Kotlin, Android, Database Integration
-
-Repository link coming soon.
-
-### Bookshop Management System
-
-An academic software development project focused on bookshop management.
-
-Repository link coming soon.
-
-### Smart Campus Food Ordering System
-
-A campus food-ordering project.
-
-[View Repository](https://github.com/Amila1103/Smart-Campus-Food-Ordering-System)
+- [Smart Campus Operations Hub](https://github.com/Amila1103/it3030-paf-2026-smart-campus-group-12)
+- [BloodDononerApp-Development](https://github.com/Amila1103/BloodDononerApp-Development)
+- [BloodDononerApp](https://github.com/Amila1103/BloodDononerApp)
+- [Smart Campus Food Ordering System](https://github.com/Amila1103/Smart-Campus-Food-Ordering-System)
 
 ---
 
@@ -99,8 +69,4 @@ Open to internship opportunities, collaboration and learning.
 
 ---
 
-<div align="center">
-
 Thank you for visiting my GitHub profile!
-
-</div>
