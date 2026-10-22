@@ -46,7 +46,7 @@ Passionate about building practical software solutions, exploring modern technol
 ## Featured Projects
 
 - [BloodDononerApp-Development](https://github.com/Amila1103/BloodDononerApp-Development)
-- [Smart-Campus-Food-Ordering-System](https://github.com/Amila1103/BloodDononerApp-Development)
+- [Smart-Campus-Food-Ordering-System](https://github.com/Amila1103/Smart-Campus-Food-Ordering-System)
 
 ---
 
